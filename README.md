@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 朗月, obsessed with dreamy airship.
+- 👋 Hi, I’m 朗月.
 - 🌱 I’m currently learning fluid mechanics model and deep refocement learning.
 
 
